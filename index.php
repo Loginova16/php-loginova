@@ -1,8 +1,8 @@
 <?php header('Content-Type: text/html; charset=windows-1251'); ?>
 
 <body>
-<h1> Логинова А. В. </h1>
-<p> Дата и время:
+<h1> Г‹Г®ГЈГЁГ­Г®ГўГ  ГЂ. Г‚. </h1>
+<p> Г„Г ГІГ  ГЁ ГўГ°ГҐГ¬Гї:
 
 <?php
         date_default_timezone_set("Asia/Yekaterinburg");
@@ -12,8 +12,8 @@
 ?>
 <br><br>
 
-<a href='./4/'>Лабораторная работа №4</a><br>
-<a href='./5/'>Лабораторная работа №5</a><br>
+<a href='./pr4/'>Г‹Г ГЎГ®Г°Г ГІГ®Г°Г­Г Гї Г°Г ГЎГ®ГІГ  В№4</a><br>
+<a href='./lab5/'>Г‹Г ГЎГ®Г°Г ГІГ®Г°Г­Г Гї Г°Г ГЎГ®ГІГ  В№5</a><br>
 
 </body>
 
